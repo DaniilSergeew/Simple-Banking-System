@@ -5,7 +5,6 @@ A simple immitation of the bank system. It is based on Java and built with Intel
 
 ## Building Simple Banking System
 
-Source code is available from https://github.com/kairoslav/simple-banking-system by either cloning or downloading a zip file into `<SOURCE_HOME>`.
 * Using IntelliJ IDEA
   #### Opening source code for build
   Using IntelliJ IDEA **File | Open**, select the `<SOURCE_HOME>/banking` directory.
